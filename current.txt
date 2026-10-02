@@ -908,3 +908,13 @@ db37a1c757e2e69b1ec9c75a981a6987bd87a131d92ab6acc00e04d19f374281 android.hardwar
 06983ffe6d75e90a22503a6d9fd14417f983a36bb060a80ad5915240d69b8a40 android.hardware.automotive.vehicle@2.0::types
 
 # There will be no more HIDL HALs. Use AIDL instead.
+
+# Restored legacy HIDL definitions for FCM level 6
+3a8d3922e06e6d4f8e0befc6be78d0e9e07aed1585b3da6521bed406d25a9483 android.hardware.ir@1.0::IConsumerIr
+7090bd37912fcf723a12f4bc17783e3527577c4944805a028c296fd7a95bd682 android.hardware.ir@1.0::types
+4e4904c4067dadae974ddf90351f362331dcd04bba1d890d313cc8ba91f68c15 android.hardware.automotive.sv@1.0::ISurroundView2dSession
+63336e9d03f545020ff2982ff76d9d8c44fa76ad476293b5ef6732cbbd71e61b android.hardware.automotive.sv@1.0::ISurroundView3dSession
+b7015428cd52ce8192d13bfcbf2c4455cda3727d57f2aac80d65a1747104f5ac android.hardware.automotive.sv@1.0::ISurroundViewService
+7d2e77ad86766bbc213fa7377eab739f44cc0866e567e6d33c0e27e7f99e27a8 android.hardware.automotive.sv@1.0::ISurroundViewSession
+d34769e55df919739bb46f25ae2e125e9c807733afa94daeca20feadd74de79c android.hardware.automotive.sv@1.0::ISurroundViewStream
+affd9c591f48a69773fcf43dc4a716d292cd4bc5ba2be8649276af0aedea435d android.hardware.automotive.sv@1.0::types
