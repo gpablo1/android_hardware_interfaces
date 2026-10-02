@@ -1,0 +1,45 @@
+[
+  {
+    "commit": "d8241bb3e7ad6eaa02a5958f8c9e03e99aa98595",
+    "parent": "f66faea02c47fddcb4bb1f421455f666b64575eb",
+    "files": [
+      "ir/1.0/Android.bp",
+      "ir/1.0/IConsumerIr.hal",
+      "ir/1.0/types.hal"
+    ]
+  },
+  {
+    "commit": "97e6692fa81fd6a5e610e91cd85fc8ff7ac54b19",
+    "parent": "ae70e5eeb9d27de090322d8068c3ba066a80d4cf",
+    "files": [
+      "dumpstate/1.0/Android.bp",
+      "dumpstate/1.0/IDumpstateDevice.hal",
+      "dumpstate/1.1/Android.bp",
+      "dumpstate/1.1/IDumpstateDevice.hal",
+      "dumpstate/1.1/types.hal"
+    ]
+  },
+  {
+    "commit": "5ab06c939659d299d41b253ff0df006b00c7bf16",
+    "parent": "22c69e4d25648b02e7a631f98c9f01d5ab980262",
+    "files": [
+      "input/classifier/1.0/Android.bp",
+      "input/classifier/1.0/IInputClassifier.hal",
+      "input/common/1.0/Android.bp",
+      "input/common/1.0/types.hal"
+    ]
+  },
+  {
+    "commit": "d5411978da2bb9ad0d8d71cb148c601c45c85d0b",
+    "parent": "50290a6761fb4306aef3a864850a4f101062f515",
+    "files": [
+      "automotive/sv/1.0/Android.bp",
+      "automotive/sv/1.0/ISurroundView2dSession.hal",
+      "automotive/sv/1.0/ISurroundView3dSession.hal",
+      "automotive/sv/1.0/ISurroundViewService.hal",
+      "automotive/sv/1.0/ISurroundViewSession.hal",
+      "automotive/sv/1.0/ISurroundViewStream.hal",
+      "automotive/sv/1.0/types.hal"
+    ]
+  }
+]

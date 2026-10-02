@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote name="umi-interfaces" fetch="https://github.com/" />
+  <remove-project name="AOSPA/android_hardware_interfaces" />
+  <project path="hardware/interfaces" name="gpablo1/android_hardware_interfaces" remote="umi-interfaces" revision="b738b163e417c4a162f1b3557037073a328a916b" upstream="umi-calcite" />
+</manifest>
